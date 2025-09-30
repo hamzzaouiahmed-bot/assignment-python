@@ -1,0 +1,16 @@
+
+*.log
+*.tmp
+*.cache
+*.DS_Store
+
+
+__pycache__/
+*.pyc
+
+
+.vscode/
+
+
+C:/Users/Wind10/AppData/
+C:/Users/Wind10/Documents/

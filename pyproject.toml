@@ -1,0 +1,7 @@
+[tool.poetry]
+name = "fundamentals"
+version = "0.1.0"
+description = "Python Fundamentals Assignments"
+
+[tool.ruff]
+line-length = 88
